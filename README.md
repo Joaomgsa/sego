@@ -1,0 +1,2 @@
+# sego
+Desenvolvimento github app
